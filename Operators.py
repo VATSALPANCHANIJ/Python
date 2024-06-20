@@ -39,3 +39,29 @@ print(a is b)
 print(b is not c)
 
 print("\n")
+print("BitWise operators")
+# (and &), (or), (XOR), (>>), (<<)
+print(bin(15))
+a = 10
+b = 8
+print("& And")
+print(a & b)
+
+print("or")
+print(a or b)
+
+print("XOR ^")
+print(a ^ b)
+
+print(">> Right shit")
+print(a >> b)
+
+print("<<Left shit")
+print(a << b)
+
+print("\n")
+print("Membership Operators")
+a = "Vatsal"
+print("V" in a)
+print("V" not in a)
+print("p" not in a)
