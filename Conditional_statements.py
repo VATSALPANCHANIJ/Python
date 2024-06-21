@@ -65,7 +65,6 @@ print("short Hand if-else statement")
 marks = 88
 print("Good")if marks >80 else print("Not Good")
 
-
 #TASK
 
 #vowel numbers
