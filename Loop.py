@@ -25,15 +25,15 @@
 
 #infinity loop system
 
-# while True:
-#     num1 = int(input("enter the number :- "))
-#     num2 = int(input("enter the number :- "))
-#     print(num1 + num2)
-#     repeat = input("do you want to stop the program: ")
-#     if repeat.lower() == "yes":
-#      break
-#
-#     print("\n")
+while True:
+    num1 = int(input("enter the number :- "))
+    num2 = int(input("enter the number :- "))
+    print(num1 + num2)
+    repeat = input("do you want to stop the program: ")
+    if repeat.lower() == "yes":
+     break
+
+    print("\n")
 ######################
 
 # print("Nested Loops")
